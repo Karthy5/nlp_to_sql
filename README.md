@@ -1,4 +1,4 @@
-# NLP to SQL with T5 and Spider Dataset
+# Natural Language to SQL with T5 and Spider Dataset
 
 ## Project Overview
 
